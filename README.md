@@ -11,5 +11,3 @@ Pd6 Lunch
 Pd7 Spanish
 Pd8 Math
 Pd9 Gym 
-This is a change
-Test nymber 2
